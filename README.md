@@ -3,7 +3,7 @@
 I'm a Full Stack Developer and a recent graduate of iO Academy's Full Stack Track Course in Bath, Somerset. 
 
 ## Certifications 🎓
-Full Stack Track <br/>
+[Full Stack Track](https://io-academy.uk/courses/full-stack-track/) <br/>
 Agile Professional Training <br/>
 
 ## My Portfolio Site 
