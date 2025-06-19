@@ -8,4 +8,5 @@ Agile Professional Training <br/>
 
 ## My Portfolio Site 
 Check out my portfolio [here](https://emferrari31.github.io/emmaferrari/) <br/>
+A more recent version... [here](https://emferrari31.github.io/emmaf-portfolio/) <br/>
 Find me on [LinkedIn](https://www.linkedin.com/in/ferrariemma1610/) 
